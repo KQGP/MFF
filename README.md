@@ -47,6 +47,3 @@ run.bat
 Enter your Gemini, Exa, and Firecrawl API keys in the sidebar.
 
 > ⚠️ The bundled code contains hardcoded API keys. Move them to environment variables / secrets before sharing.
-
-## 📄 License
-No license specified.
